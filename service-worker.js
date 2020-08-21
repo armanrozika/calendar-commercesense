@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/calendar-commercesense/precache-manifest.38beefa788bc30adc1db25f6be8c392b.js"
+  "/calendar-commercesense/precache-manifest.dd43121d77a7a830a99a30a2ceaecded.js"
 );
 
 self.addEventListener('message', (event) => {
